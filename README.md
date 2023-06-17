@@ -1,5 +1,3 @@
-[![MasterHead](https://i.pinimg.com/plains/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.linkedin.com/in/niteshramola/)
-
 <h1 align="center">Hi 👋, I'm Nitesh ramola</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="Coding">
