@@ -4,8 +4,6 @@
 </br>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="Coding">
 
-</br>
-
 - 🌱 Doing **Backend Development**
 
 - 💬 Ask me about **DSA & Backend Development**
