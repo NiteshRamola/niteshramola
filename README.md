@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh ramola</h1>
-<h3 align="center">A passionate Software Developer from India  🇮🇳</h3>
+<h3 align="center">A passionate Software Engineer from India  🇮🇳</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="Coding">
 
